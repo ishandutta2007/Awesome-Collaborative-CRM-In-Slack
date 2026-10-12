@@ -1,6 +1,6 @@
 # Awesome-Collaborative-CRM-In-Slack
 
-# Top Collaborative CRM in Slack Ecosystem
+## Top Collaborative CRM in Slack Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on CRM Workflows, Pipeline Management & Sales Collaboration Inside Slack*  
